@@ -1,0 +1,1 @@
+export const keyExtractor = (_item: any, index: { toString: () => any }) => index.toString();
