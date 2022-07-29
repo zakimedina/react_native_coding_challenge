@@ -1,0 +1,6 @@
+module Pods_Zaki {
+  umbrella header "Pods-Zaki-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_Zaki_ZakiTests {
+  umbrella header "Pods-Zaki-ZakiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
